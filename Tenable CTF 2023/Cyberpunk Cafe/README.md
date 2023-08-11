@@ -13,11 +13,11 @@ Then, I wrote a simple python code that reshaped the given array of numbers to a
 
 * Output of the code:
 
-![qrCode](https://github.com/alp361/ctf-writeups/assets/69428956/cf0110b3-b02c-4ebc-a7f6-bad218725ef2)
+![qrCode](https://github.com/alp361/ctf-writeups/blob/main/Tenable%20CTF%202023/Cyberpunk%20Cafe/qrCode.png)
 
 * Finally, I decoded this qr code and retrieve the flag:
 
-![flag_found](https://github.com/alp361/ctf-writeups/assets/69428956/fb953dab-411b-441c-b3cd-16ecc3ce0526)
+![flag_found](https://github.com/alp361/ctf-writeups/blob/main/Tenable%20CTF%202023/Cyberpunk%20Cafe/flag_found.png)
 
 
 ```
